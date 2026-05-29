@@ -1,13 +1,13 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Name: Vikaskumar M
+## Reg. No.: 212224220122
 
-## Aim:
+# Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
 
-## Procedure:
+# Procedure:
 1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
 ○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
 ○	Decision Making: Asking the model to choose between options or directions.
@@ -49,18 +49,48 @@ content generation scenarios:
 11.	How to Build an E-commerce Website
 12.	Social Issue Awareness Campaign
 13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
+# Instructions:
 1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
 2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
 3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
 4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
 5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
 
-## Deliverables:
+# Deliverables:
 1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+# Scenario 1 :
 
-## Conclusion:
+# Basic prompt : 
+“Write a business report on market trends.”
+
+# Refined prompt : 
+“Write a structured business report on market trends. Include sections like executive summary, market overview, key trends, and conclusion. Focus on technology, retail, and finance industries.”
+
+# Expert prompt :
+“Generate a professional business report on global market trends for 2026 focusing on technology, retail, and finance sectors. Structure the report with executive summary, market analysis, key high-impact trends, risk assessment, and strategic recommendations. Use analytical reasoning to explain drivers behind trends and include decision-making insights for businesses. Avoid generic statements and focus only on high-impact trends.”
+
+[Business_Intelligence_Evolution_Report_2026.pdf](https://github.com/user-attachments/files/28397748/Business_Intelligence_Evolution_Report_2026.pdf)
+
+
+# Scenario 2 :
+
+# Basic prompt :
+“Write about the impact of artificial intelligence on healthcare.”
+
+# Refined prompt :
+“Write a structured report on the impact of artificial intelligence on healthcare. Include sections like introduction, applications, benefits, challenges, and conclusion.”
+
+# Expert prompt :
+“Generate a professional healthcare industry report on the impact of artificial intelligence. Focus on 2026 trends and structure the report with executive summary, AI applications in healthcare, data-driven benefits, risks and ethical concerns, and strategic recommendations. Prioritize high-impact use cases such as diagnostics, predictive analytics, and personalized medicine. Exclude generic statements and emphasize real-world healthcare transformation and decision-making insights.”
+
+
+[AI-in-Healthcare-From-Experiment-to-Enterprise.pdf](https://github.com/user-attachments/files/28397798/AI-in-Healthcare-From-Experiment-to-Enterprise.pdf)
+
+
+
+# Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+
